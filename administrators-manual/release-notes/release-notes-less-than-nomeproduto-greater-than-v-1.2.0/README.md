@@ -6,3 +6,4 @@
 ### **Bug Fix**
 
 1. [Quick Tab Navigation on Home](Quick-Tab-Navigation-On-Home.md)
+2. [Switch Behavior on Home](Switch-Behavior-On-Home.md)
