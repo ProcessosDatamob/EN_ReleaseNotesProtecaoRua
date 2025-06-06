@@ -31,3 +31,4 @@
 24. [Removal of the Street Mode Onboarding Welcome Screen](Removal-Of-The-Street-Mode-Onboarding-Welcome-Screen.md)
 25. [Home Screen of Street Mode in Unsafe Location](Home-Screen-Of-Street-Mode-In-Unsafe-Location.md)
 26. [Home Screen of Safe Location Street Mode](Home-Screen-Of-Safe-Location-Street-Mode.md)
+27. [Street Mode Home Screen in the App](Street-Mode-Home-Screen-In-The-App.md)
