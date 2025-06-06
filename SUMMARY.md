@@ -84,3 +84,4 @@
     * [Define Safe Location Coverage Area In Street Mode](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Define-Safe-Location-Coverage-Area-In-Street-Mode.md)
     * [Add Safe Location In Street Mode App](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Add-Safe-Location-In-Street-Mode-App.md)
     * [Removal Of The Street Mode Onboarding Welcome Screen](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Removal-Of-The-Street-Mode-Onboarding-Welcome-Screen.md)
+    * [Home Screen Of Street Mode In Unsafe Location](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Home-Screen-Of-Street-Mode-In-Unsafe-Location.md)
