@@ -25,3 +25,4 @@
 18. [Unlock Screen with Password Validation](Unlock-Screen-With-Password-Validation.md)
 19. [Detailed App Selection in Street Mode](Detailed-App-Selection-In-Street-Mode.md)
 20. [App Access Restriction in Street Mode](App-Access-Restriction-In-Street-Mode.md)
+21. [Select Name for Safe Location in Street Mode App](Select-Name-For-Safe-Location-In-Street-Mode-App.md)
