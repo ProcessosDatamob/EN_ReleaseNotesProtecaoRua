@@ -12,3 +12,4 @@
 5. [Incomplete Configuration Notification in the Street Protection App](Incomplete-Configuration-Notification-In-The-Street-Protection-App.md)
 6. [Pending Settings Notification on First Login](Pending-Settings-Notification-On-First-Login.md)
 7. [Missing Permissions Notification in the App](Missing-Permissions-Notification-In-The-App.md)
+8. [Use of VIVO App Biometrics in Street Protection](Use-Of-Vivo-App-Biometrics-In-Street-Protection.md)
