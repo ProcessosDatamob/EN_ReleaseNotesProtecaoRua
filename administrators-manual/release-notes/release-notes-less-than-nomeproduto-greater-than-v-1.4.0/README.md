@@ -38,3 +38,4 @@
 31. [Accessibility in the Safe Location Options Modal of the Street Protection App](Accessibility-In-The-Safe-Location-Options-Modal-Of-The-Street-Protection-App.md)
 32. [Accessibility on the "Choose a Name for This Location" Screen](Accessibility-On-The-"Choose-A-Name-For-This-Location"-Screen.md)
 33. [Accessibility on the "Define Safe Area" Screen of the Street Protection App](Accessibility-On-The-"Define-Safe-Area"-Screen-Of-The-Street-Protection-App.md)
+34. [Accessibility on the "Add Safe Location" Screen](Accessibility-On-The-"Add-Safe-Location"-Screen.md)
