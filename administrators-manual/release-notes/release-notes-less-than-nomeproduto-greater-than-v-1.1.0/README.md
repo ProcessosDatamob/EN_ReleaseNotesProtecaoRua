@@ -15,3 +15,4 @@
 
 1. [Automatically Lock and Unlock Apps](Automatically-Lock-And-Unlock-Apps.md)
 2. [Password Validation in Street Protection](Password-Validation-In-Street-Protection.md)
+3. [Configure Protection Radius](Configure-Protection-Radius.md)
