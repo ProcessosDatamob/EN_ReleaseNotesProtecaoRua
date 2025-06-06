@@ -27,3 +27,4 @@
 20. [Accessibility on the Password Registration Screen](Accessibility-On-The-Password-Registration-Screen.md)
 21. [Accessibility on the Main Password Registration Screen](Accessibility-On-The-Main-Password-Registration-Screen.md)
 22. [Accessibility of the Synchronization Screen for Visually Impaired Users](Accessibility-Of-The-Synchronization-Screen-For-Visually-Impaired-Users.md)
+23. [Accessibility on the Permissions Screen](Accessibility-On-The-Permissions-Screen.md)
