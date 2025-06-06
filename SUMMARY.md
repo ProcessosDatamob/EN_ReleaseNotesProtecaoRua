@@ -87,3 +87,4 @@
     * [Home Screen Of Street Mode In Unsafe Location](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Home-Screen-Of-Street-Mode-In-Unsafe-Location.md)
     * [Home Screen Of Safe Location Street Mode](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Home-Screen-Of-Safe-Location-Street-Mode.md)
     * [Street Mode Home Screen In The App](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Street-Mode-Home-Screen-In-The-App.md)
+    * [Notification Permission For Street Mode](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Notification-Permission-For-Street-Mode.md)
