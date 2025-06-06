@@ -37,3 +37,4 @@
 30. [Location Permission Management in the Street Mode App](Location-Permission-Management-In-The-Street-Mode-App.md)
 31. [Street Mode Permissions Configuration](Street-Mode-Permissions-Configuration.md)
 32. [Numeric Password Registration in Street Mode](Numeric-Password-Registration-In-Street-Mode.md)
+33. [Firebase Token Synchronization in the App](Firebase-Token-Synchronization-In-The-App.md)
