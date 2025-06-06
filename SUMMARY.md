@@ -19,6 +19,7 @@
 * [RELEASE NOTES](administrators-manual/release-notes/README.md)
   * [Release Notes \<NomeProduto> V 1.4.0](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/README.md)
     * [Easy Access To Notifications](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Easy-Access-To-Notifications.md)
+    * [General Error Screen Accessibility](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/General-Error-Screen-Accessibility.md)
   * [Release Notes \<NomeProduto> V 1.3.0](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/README.md)
     * [Update Available Notification](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Update-Available-Notification.md)
     * [Emergency Password Usage Notification](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Emergency-Password-Usage-Notification.md)
