@@ -2,3 +2,7 @@
 
 ## **Versão 1.0.0 - 06/2025**
 
+
+### **New Features**
+
+1. [Visibility and Navigation on iOS Home Screen](Visibility-And-Navigation-On-Ios-Home-Screen.md)
