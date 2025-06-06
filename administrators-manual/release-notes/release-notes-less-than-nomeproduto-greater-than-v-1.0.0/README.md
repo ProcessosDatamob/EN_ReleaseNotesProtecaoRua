@@ -22,3 +22,4 @@
 15. [Password and Emergency Contact Configuration in the App](Password-And-Emergency-Contact-Configuration-In-The-App.md)
 16. [Emergency Security Configuration in the App](Emergency-Security-Configuration-In-The-App.md)
 17. [Safe Locations Management and App Lock in Street Mode](Safe-Locations-Management-And-App-Lock-In-Street-Mode.md)
+18. [Unlock Screen with Password Validation](Unlock-Screen-With-Password-Validation.md)
