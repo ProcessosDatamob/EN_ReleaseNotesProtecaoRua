@@ -9,6 +9,7 @@
     * [Secure Configuration Management In The "Street Protection" App](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Secure-Configuration-Management-In-The-"Street-Protection"-App.md)
     * [Change Main Password In The Street Protection App](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Change-Main-Password-In-The-Street-Protection-App.md)
     * [Change Emergency Password In The Street Protection App](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Change-Emergency-Password-In-The-Street-Protection-App.md)
+    * [Update Trusted Contact In The Street Protection App](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Update-Trusted-Contact-In-The-Street-Protection-App.md)
   * [Release Notes \<NomeProduto> V 1.1.0](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/README.md)
     * [Inactive Master Switch Button](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Inactive-Master-Switch-Button.md)
     * [App Lock Outside Secure Location](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/App-Lock-Outside-Secure-Location.md)
