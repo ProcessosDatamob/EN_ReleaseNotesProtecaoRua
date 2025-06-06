@@ -32,3 +32,4 @@
 17. [Automatic Access Token Renewal](Automatic-Access-Token-Renewal.md)
 18. [Creation and Editing of Safe Locations on the Map](Creation-And-Editing-Of-Safe-Locations-On-The-Map.md)
 19. [Automatic Location Synchronization in the Street Protection App](Automatic-Location-Synchronization-In-The-Street-Protection-App.md)
+20. [Profile Management in the Street Protection App](Profile-Management-In-The-Street-Protection-App.md)
