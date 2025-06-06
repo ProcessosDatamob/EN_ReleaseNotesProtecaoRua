@@ -11,3 +11,4 @@
 4. [Integration of Google Maps in the Street Protection App](Integration-Of-Google-Maps-In-The-Street-Protection-App.md)
 5. [Push Notification Integration with Firebase](Push-Notification-Integration-With-Firebase.md)
 6. [Vivo OAuth Authentication in the Proteção Rua App](Vivo-Oauth-Authentication-In-The-Proteção-Rua-App.md)
+7. [Activation with OAuth Token in the Street Protection App](Activation-With-Oauth-Token-In-The-Street-Protection-App.md)
