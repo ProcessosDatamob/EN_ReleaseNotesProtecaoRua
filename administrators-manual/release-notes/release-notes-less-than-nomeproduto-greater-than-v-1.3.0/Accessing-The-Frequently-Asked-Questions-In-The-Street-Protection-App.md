@@ -1,0 +1,5 @@
+# Accessing the Frequently Asked Questions in the Street Protection App
+
+**ID: US-BTC-158**
+
+In the Street Protection app, you can access the Frequently Asked Questions (FAQ) screen by clicking on the question mark icon ("?") available in the "Safe Places" or "Apps" sections. Doing so will take you to a page that contains a clear title and a search bar to facilitate the search for specific topics. Below the search bar, there is a list of questions with detailed answers. When you click on a question, the corresponding answer is displayed while the other questions remain hidden. If you wish to search for specific topics, the search bar allows you to filter the questions, and you can clear the search at any time by clicking the "X" button, returning to the full list of questions. This functionality was created to help you quickly resolve your queries about how to use the app.
