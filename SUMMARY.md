@@ -10,6 +10,7 @@
     * [Use Of Vivo App Biometrics In Street Protection](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Use-Of-Vivo-App-Biometrics-In-Street-Protection.md)
     * [Navigation After Password Lock In Street Protection](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Navigation-After-Password-Lock-In-Street-Protection.md)
     * [Password Attempt Management In Street Protection](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Password-Attempt-Management-In-Street-Protection.md)
+    * [Password Reset With Biometrics](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Password-Reset-With-Biometrics.md)
   * [Release Notes \<NomeProduto> V 1.2.0](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/README.md)
     * [Quick Tab Navigation On Home](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Quick-Tab-Navigation-On-Home.md)
     * [Switch Behavior On Home](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Switch-Behavior-On-Home.md)
