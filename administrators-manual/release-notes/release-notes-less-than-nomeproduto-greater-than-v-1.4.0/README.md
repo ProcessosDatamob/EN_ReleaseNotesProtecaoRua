@@ -41,3 +41,4 @@
 34. [Accessibility on the "Add Safe Location" Screen](Accessibility-On-The-"Add-Safe-Location"-Screen.md)
 35. [Accessibility in Row Selection](Accessibility-In-Row-Selection.md)
 36. [Accessibility on the Unconfigured App Home Screen](Accessibility-On-The-Unconfigured-App-Home-Screen.md)
+37. [Main Screen Accessibility in the App](Main-Screen-Accessibility-In-The-App.md)
