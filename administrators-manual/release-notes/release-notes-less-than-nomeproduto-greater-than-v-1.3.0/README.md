@@ -2,3 +2,7 @@
 
 ## **Versão 1.3.0 - 06/2025**
 
+
+### **New Features**
+
+1. [Update Available Notification](Update-Available-Notification.md)
