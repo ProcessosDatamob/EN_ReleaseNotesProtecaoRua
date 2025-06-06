@@ -12,3 +12,4 @@
 5. [Accessibility for Pending Permissions](Accessibility-For-Pending-Permissions.md)
 6. [Accessibility in Trusted Contact Editing](Accessibility-In-Trusted-Contact-Editing.md)
 7. [Trusted Contact Screen Accessibility](Trusted-Contact-Screen-Accessibility.md)
+8. [Password Change Feedback Screen](Password-Change-Feedback-Screen.md)
