@@ -20,3 +20,4 @@
 13. [Access and Management of Safe Locations in the App](Access-And-Management-Of-Safe-Locations-In-The-App.md)
 14. [Lock Screen for Restricted Apps](Lock-Screen-For-Restricted-Apps.md)
 15. [Password and Emergency Contact Configuration in the App](Password-And-Emergency-Contact-Configuration-In-The-App.md)
+16. [Emergency Security Configuration in the App](Emergency-Security-Configuration-In-The-App.md)
