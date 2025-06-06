@@ -1,0 +1,5 @@
+# Initial Access to the Home Screen with Granted Permissions
+
+**ID: US-BTC-380**
+
+When you open the <ProductName> app for the first time, after granting all permissions, you will be taken to the Home screen. On this screen, you will have access to the main features and can view the general status of the app. If you have not yet configured your information, by tapping "Configure your protections," you will be guided to set passwords, add contacts, register locations, or select apps. After completing these configurations, a confirmation message will be displayed. If you are in a location that has been registered as safe, the app will show that all apps are operating normally; otherwise, they will be in protected mode. The Master Switch will always be on, indicating that "Street Protection" is active.
