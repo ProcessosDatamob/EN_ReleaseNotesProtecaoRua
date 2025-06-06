@@ -18,3 +18,4 @@
 4. [Change Main Password in the Street Protection App](Change-Main-Password-In-The-Street-Protection-App.md)
 5. [Change Emergency Password in the Street Protection App](Change-Emergency-Password-In-The-Street-Protection-App.md)
 6. [Update Trusted Contact in the Street Protection App](Update-Trusted-Contact-In-The-Street-Protection-App.md)
+7. [Password Management via Profile](Password-Management-Via-Profile.md)
