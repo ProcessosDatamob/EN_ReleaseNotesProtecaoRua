@@ -34,3 +34,4 @@
 27. [Street Mode Home Screen in the App](Street-Mode-Home-Screen-In-The-App.md)
 28. [Notification Permission for Street Mode](Notification-Permission-For-Street-Mode.md)
 29. [Usage Time Permission for Street Mode](Usage-Time-Permission-For-Street-Mode.md)
+30. [Location Permission Management in the Street Mode App](Location-Permission-Management-In-The-Street-Mode-App.md)
