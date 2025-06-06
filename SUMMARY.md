@@ -13,6 +13,7 @@
     * [Automatically Lock And Unlock Apps](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Automatically-Lock-And-Unlock-Apps.md)
     * [Password Validation In Street Protection](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Password-Validation-In-Street-Protection.md)
     * [Configure Protection Radius](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Configure-Protection-Radius.md)
+    * [Password Creation And Management In The Profile](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Password-Creation-And-Management-In-The-Profile.md)
   * [Release Notes \<NomeProduto> V 1.0.0](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/README.md)
     * [Visibility And Navigation On Ios Home Screen](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Visibility-And-Navigation-On-Ios-Home-Screen.md)
     * [Safe Location Selection On The Map](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Safe-Location-Selection-On-The-Map.md)
