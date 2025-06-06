@@ -15,6 +15,7 @@
     * [Redirect Uri Configuration For Oauth](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Redirect-Uri-Configuration-For-Oauth.md)
     * [Splash Screen In The App](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Splash-Screen-In-The-App.md)
     * [Customization Of Apps In Street Mode](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Customization-Of-Apps-In-Street-Mode.md)
+    * [Initial Access Screen In Street Mode](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Initial-Access-Screen-In-Street-Mode.md)
 # Table of contents
 
 * [Technical Description of the Protection Solution - Android](README.md)
