@@ -6,6 +6,7 @@
     * [Automatic Sms Sending To Trusted Contact](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Automatic-Sms-Sending-To-Trusted-Contact.md)
     * [Incomplete Configuration Notification In The Street Protection App](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Incomplete-Configuration-Notification-In-The-Street-Protection-App.md)
     * [Pending Settings Notification On First Login](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Pending-Settings-Notification-On-First-Login.md)
+    * [Missing Permissions Notification In The App](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Missing-Permissions-Notification-In-The-App.md)
   * [Release Notes \<NomeProduto> V 1.2.0](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/README.md)
     * [Quick Tab Navigation On Home](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Quick-Tab-Navigation-On-Home.md)
     * [Switch Behavior On Home](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Switch-Behavior-On-Home.md)
