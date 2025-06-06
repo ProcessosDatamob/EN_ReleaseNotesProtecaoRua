@@ -18,3 +18,4 @@
 3. [Configure Protection Radius](Configure-Protection-Radius.md)
 4. [Password Creation and Management in the Profile](Password-Creation-And-Management-In-The-Profile.md)
 5. [Trusted Contact Registration](Trusted-Contact-Registration.md)
+6. [Emergency Password Registration in the Proteção Rua App](Emergency-Password-Registration-In-The-Proteção-Rua-App.md)
