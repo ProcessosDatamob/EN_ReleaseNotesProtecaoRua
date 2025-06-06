@@ -25,3 +25,4 @@
 18. [Accessibility on the Emergency Password Screen](Accessibility-On-The-Emergency-Password-Screen.md)
 19. [Accessibility on the Emergency Password Screen](Accessibility-On-The-Emergency-Password-Screen.md)
 20. [Accessibility on the Password Registration Screen](Accessibility-On-The-Password-Registration-Screen.md)
+21. [Accessibility on the Main Password Registration Screen](Accessibility-On-The-Main-Password-Registration-Screen.md)
