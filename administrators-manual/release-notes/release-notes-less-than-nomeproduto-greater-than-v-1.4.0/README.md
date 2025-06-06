@@ -36,3 +36,4 @@
 29. [Accessibility on the Address Search Screen of the Proteção Rua App](Accessibility-On-The-Address-Search-Screen-Of-The-Proteção-Rua-App.md)
 30. [Accessibility in the Safe Location Deletion Modal of the Street Protection App](Accessibility-In-The-Safe-Location-Deletion-Modal-Of-The-Street-Protection-App.md)
 31. [Accessibility in the Safe Location Options Modal of the Street Protection App](Accessibility-In-The-Safe-Location-Options-Modal-Of-The-Street-Protection-App.md)
+32. [Accessibility on the "Choose a Name for This Location" Screen](Accessibility-On-The-"Choose-A-Name-For-This-Location"-Screen.md)
