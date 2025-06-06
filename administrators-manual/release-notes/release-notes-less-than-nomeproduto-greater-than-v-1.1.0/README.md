@@ -9,3 +9,4 @@
 2. [App Lock Outside Secure Location](App-Lock-Outside-Secure-Location.md)
 3. [Home Screen Message Update](Home-Screen-Message-Update.md)
 4. [Add New Locations](Add-New-Locations.md)
+5. [Hide Options After Denying Location Permission](Hide-Options-After-Denying-Location-Permission.md)
