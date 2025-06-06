@@ -6,3 +6,4 @@
 ### **New Features**
 
 1. [Easy Access to Notifications](Easy-Access-To-Notifications.md)
+2. [General Error Screen Accessibility](General-Error-Screen-Accessibility.md)
