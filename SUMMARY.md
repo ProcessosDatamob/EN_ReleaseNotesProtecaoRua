@@ -58,6 +58,7 @@
     * [Password Creation And Management In The Profile](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Password-Creation-And-Management-In-The-Profile.md)
     * [Trusted Contact Registration](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Trusted-Contact-Registration.md)
     * [Emergency Password Registration In The Proteção Rua App](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Emergency-Password-Registration-In-The-Proteção-Rua-App.md)
+    * [Safe Locations Visualization In The App](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Safe-Locations-Visualization-In-The-App.md)
   * [Release Notes \<NomeProduto> V 1.0.0](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/README.md)
     * [Visibility And Navigation On Ios Home Screen](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Visibility-And-Navigation-On-Ios-Home-Screen.md)
     * [Safe Location Selection On The Map](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Safe-Location-Selection-On-The-Map.md)
