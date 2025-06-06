@@ -9,3 +9,7 @@
 2. [Switch Behavior on Home](Switch-Behavior-On-Home.md)
 3. [Safe Location Indication on the Portal](Safe-Location-Indication-On-The-Portal.md)
 4. [Home Protection Settings Configuration](Home-Protection-Settings-Configuration.md)
+
+### **New Features**
+
+1. [License Status Management in the App](License-Status-Management-In-The-App.md)
