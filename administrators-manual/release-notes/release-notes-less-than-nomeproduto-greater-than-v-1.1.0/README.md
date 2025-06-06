@@ -25,3 +25,4 @@
 10. [Application Selection in the Street Protection App](Application-Selection-In-The-Street-Protection-App.md)
 11. [Text Adjustment for Safe Location Registration](Text-Adjustment-For-Safe-Location-Registration.md)
 12. [Safe Location Registration in the App](Safe-Location-Registration-In-The-App.md)
+13. [Main Password Registration via Incentive Card](Main-Password-Registration-Via-Incentive-Card.md)
