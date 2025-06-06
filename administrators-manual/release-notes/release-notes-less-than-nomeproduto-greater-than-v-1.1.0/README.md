@@ -2,3 +2,7 @@
 
 ## **Versão 1.1.0 - 06/2025**
 
+
+### **Bug Fix**
+
+1. [Inactive Master Switch Button](Inactive-Master-Switch-Button.md)
