@@ -71,6 +71,7 @@
     * [Text Adjustment For Safe Location Registration](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Text-Adjustment-For-Safe-Location-Registration.md)
     * [Safe Location Registration In The App](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Safe-Location-Registration-In-The-App.md)
     * [Main Password Registration Via Incentive Card](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Main-Password-Registration-Via-Incentive-Card.md)
+    * [Notification Permission In The Proteção Rua App](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Notification-Permission-In-The-Proteção-Rua-App.md)
   * [Release Notes \<NomeProduto> V 1.0.0](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/README.md)
     * [Visibility And Navigation On Ios Home Screen](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Visibility-And-Navigation-On-Ios-Home-Screen.md)
     * [Safe Location Selection On The Map](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Safe-Location-Selection-On-The-Map.md)
