@@ -11,3 +11,4 @@
 4. [Easy Access to the FAQ on the Portal](Easy-Access-To-The-Faq-On-The-Portal.md)
 5. [Accessibility for Pending Permissions](Accessibility-For-Pending-Permissions.md)
 6. [Accessibility in Trusted Contact Editing](Accessibility-In-Trusted-Contact-Editing.md)
+7. [Trusted Contact Screen Accessibility](Trusted-Contact-Screen-Accessibility.md)
