@@ -17,3 +17,4 @@
 10. [Password Attempt Management in Street Protection](Password-Attempt-Management-In-Street-Protection.md)
 11. [Password Reset with Biometrics](Password-Reset-With-Biometrics.md)
 12. [Accessing the Frequently Asked Questions in the Street Protection App](Accessing-The-Frequently-Asked-Questions-In-The-Street-Protection-App.md)
+13. [Street Protection App Notifications Screen](Street-Protection-App-Notifications-Screen.md)
