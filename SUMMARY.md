@@ -78,3 +78,4 @@
     * [Unlock Screen With Password Validation](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Unlock-Screen-With-Password-Validation.md)
     * [Detailed App Selection In Street Mode](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Detailed-App-Selection-In-Street-Mode.md)
     * [App Access Restriction In Street Mode](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/App-Access-Restriction-In-Street-Mode.md)
+    * [Select Name For Safe Location In Street Mode App](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Select-Name-For-Safe-Location-In-Street-Mode-App.md)
