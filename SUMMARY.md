@@ -1,6 +1,7 @@
 * [RELEASE NOTES](administrators-manual/release-notes/README.md)
   * [Release Notes \<NomeProduto> V 1.1.0](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/README.md)
     * [Inactive Master Switch Button](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Inactive-Master-Switch-Button.md)
+    * [App Lock Outside Secure Location](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/App-Lock-Outside-Secure-Location.md)
   * [Release Notes \<NomeProduto> V 1.0.0](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/README.md)
     * [Visibility And Navigation On Ios Home Screen](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Visibility-And-Navigation-On-Ios-Home-Screen.md)
     * [Safe Location Selection On The Map](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Safe-Location-Selection-On-The-Map.md)
