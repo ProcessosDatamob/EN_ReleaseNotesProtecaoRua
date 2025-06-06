@@ -5,6 +5,7 @@
     * [Safe Location Indication On The Portal](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Safe-Location-Indication-On-The-Portal.md)
     * [Home Protection Settings Configuration](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Home-Protection-Settings-Configuration.md)
     * [License Status Management In The App](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/License-Status-Management-In-The-App.md)
+    * [Manage Trusted Contacts In The App](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Manage-Trusted-Contacts-In-The-App.md)
   * [Release Notes \<NomeProduto> V 1.1.0](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/README.md)
     * [Inactive Master Switch Button](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Inactive-Master-Switch-Button.md)
     * [App Lock Outside Secure Location](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/App-Lock-Outside-Secure-Location.md)
