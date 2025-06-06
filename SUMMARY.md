@@ -78,6 +78,7 @@
     * [Granting Usage Time Permission In The Street Protection App](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Granting-Usage-Time-Permission-In-The-Street-Protection-App.md)
     * [Automatic Access Token Renewal](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Automatic-Access-Token-Renewal.md)
     * [Creation And Editing Of Safe Locations On The Map](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Creation-And-Editing-Of-Safe-Locations-On-The-Map.md)
+    * [Automatic Location Synchronization In The Street Protection App](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Automatic-Location-Synchronization-In-The-Street-Protection-App.md)
   * [Release Notes \<NomeProduto> V 1.0.0](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/README.md)
     * [Visibility And Navigation On Ios Home Screen](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Visibility-And-Navigation-On-Ios-Home-Screen.md)
     * [Safe Location Selection On The Map](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Safe-Location-Selection-On-The-Map.md)
