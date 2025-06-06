@@ -1,6 +1,7 @@
 * [RELEASE NOTES](administrators-manual/release-notes/README.md)
   * [Release Notes \<NomeProduto> V 1.3.0](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/README.md)
     * [Update Available Notification](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Update-Available-Notification.md)
+    * [Emergency Password Usage Notification](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Emergency-Password-Usage-Notification.md)
   * [Release Notes \<NomeProduto> V 1.2.0](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/README.md)
     * [Quick Tab Navigation On Home](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Quick-Tab-Navigation-On-Home.md)
     * [Switch Behavior On Home](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Switch-Behavior-On-Home.md)
