@@ -8,3 +8,4 @@
 1. [Quick Tab Navigation on Home](Quick-Tab-Navigation-On-Home.md)
 2. [Switch Behavior on Home](Switch-Behavior-On-Home.md)
 3. [Safe Location Indication on the Portal](Safe-Location-Indication-On-The-Portal.md)
+4. [Home Protection Settings Configuration](Home-Protection-Settings-Configuration.md)
