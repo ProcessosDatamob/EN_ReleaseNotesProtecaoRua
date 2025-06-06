@@ -23,6 +23,7 @@
     * [Accessible Notifications On The Content Page](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accessible-Notifications-On-The-Content-Page.md)
     * [Easy Access To The Faq On The Portal](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Easy-Access-To-The-Faq-On-The-Portal.md)
     * [Accessibility For Pending Permissions](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accessibility-For-Pending-Permissions.md)
+    * [Accessibility In Trusted Contact Editing](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accessibility-In-Trusted-Contact-Editing.md)
   * [Release Notes \<NomeProduto> V 1.3.0](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/README.md)
     * [Update Available Notification](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Update-Available-Notification.md)
     * [Emergency Password Usage Notification](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Emergency-Password-Usage-Notification.md)
