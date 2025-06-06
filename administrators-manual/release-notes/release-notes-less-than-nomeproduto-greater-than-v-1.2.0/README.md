@@ -15,3 +15,4 @@
 1. [License Status Management in the App](License-Status-Management-In-The-App.md)
 2. [Manage Trusted Contacts in the App](Manage-Trusted-Contacts-In-The-App.md)
 3. [Secure Configuration Management in the "Street Protection" App](Secure-Configuration-Management-In-The-"Street-Protection"-App.md)
+4. [Change Main Password in the Street Protection App](Change-Main-Password-In-The-Street-Protection-App.md)
