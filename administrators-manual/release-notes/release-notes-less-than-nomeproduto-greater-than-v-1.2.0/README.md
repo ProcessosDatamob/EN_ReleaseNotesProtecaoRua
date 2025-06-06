@@ -2,3 +2,7 @@
 
 ## **Versão 1.2.0 - 06/2025**
 
+
+### **Bug Fix**
+
+1. [Quick Tab Navigation on Home](Quick-Tab-Navigation-On-Home.md)
