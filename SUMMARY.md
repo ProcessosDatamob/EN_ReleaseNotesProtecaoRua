@@ -7,6 +7,7 @@
     * [Push Notification Integration With Firebase](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Push-Notification-Integration-With-Firebase.md)
     * [Vivo Oauth Authentication In The Proteção Rua App](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Vivo-Oauth-Authentication-In-The-Proteção-Rua-App.md)
     * [Activation With Oauth Token In The Street Protection App](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Activation-With-Oauth-Token-In-The-Street-Protection-App.md)
+    * [Authentication Via Oauth In The Proteção Rua App](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Authentication-Via-Oauth-In-The-Proteção-Rua-App.md)
 # Table of contents
 
 * [Technical Description of the Protection Solution - Android](README.md)
