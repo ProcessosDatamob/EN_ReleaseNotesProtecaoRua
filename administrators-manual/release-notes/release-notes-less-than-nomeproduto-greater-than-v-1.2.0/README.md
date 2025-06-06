@@ -20,3 +20,4 @@
 6. [Update Trusted Contact in the Street Protection App](Update-Trusted-Contact-In-The-Street-Protection-App.md)
 7. [Password Management via Profile](Password-Management-Via-Profile.md)
 8. [Pending Permissions Notification in the App](Pending-Permissions-Notification-In-The-App.md)
+9. [Initial Access to the Home Screen with Granted Permissions](Initial-Access-To-The-Home-Screen-With-Granted-Permissions.md)
