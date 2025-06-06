@@ -3,6 +3,7 @@
     * [Visibility And Navigation On Ios Home Screen](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Visibility-And-Navigation-On-Ios-Home-Screen.md)
     * [Safe Location Selection On The Map](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Safe-Location-Selection-On-The-Map.md)
     * [Safe Locations Management In The Street Protection App](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Safe-Locations-Management-In-The-Street-Protection-App.md)
+    * [Integration Of Google Maps In The Street Protection App](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Integration-Of-Google-Maps-In-The-Street-Protection-App.md)
 # Table of contents
 
 * [Technical Description of the Protection Solution - Android](README.md)
