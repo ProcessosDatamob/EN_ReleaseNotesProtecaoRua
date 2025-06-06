@@ -14,3 +14,4 @@
 7. [Missing Permissions Notification in the App](Missing-Permissions-Notification-In-The-App.md)
 8. [Use of VIVO App Biometrics in Street Protection](Use-Of-Vivo-App-Biometrics-In-Street-Protection.md)
 9. [Navigation After Password Lock in Street Protection](Navigation-After-Password-Lock-In-Street-Protection.md)
+10. [Password Attempt Management in Street Protection](Password-Attempt-Management-In-Street-Protection.md)
