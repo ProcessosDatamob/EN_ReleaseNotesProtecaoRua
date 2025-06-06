@@ -1,7 +1,6 @@
-# Release Notes less-than-nomeproduto-greater-than V 1.2.0
+# Release Notes \<NomeProduto> V 1.2.0
 
 ## **Versão 1.2.0 - 06/2025**
-
 
 ### **Bug Fix**
 
@@ -14,7 +13,7 @@
 
 1. [License Status Management in the App](License-Status-Management-In-The-App.md)
 2. [Manage Trusted Contacts in the App](Manage-Trusted-Contacts-In-The-App.md)
-3. [Secure Configuration Management in the "Street Protection" App](Secure-Configuration-Management-In-The-"Street-Protection"-App.md)
+3. [Secure Configuration Management in the "Street Protection" App](Secure-Configuration-Management-In-The-Street-Protection-App.md)
 4. [Change Main Password in the Street Protection App](Change-Main-Password-In-The-Street-Protection-App.md)
 5. [Change Emergency Password in the Street Protection App](Change-Emergency-Password-In-The-Street-Protection-App.md)
 6. [Update Trusted Contact in the Street Protection App](Update-Trusted-Contact-In-The-Street-Protection-App.md)
