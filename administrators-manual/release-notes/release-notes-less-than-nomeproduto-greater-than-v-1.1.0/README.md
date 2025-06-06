@@ -10,3 +10,7 @@
 3. [Home Screen Message Update](Home-Screen-Message-Update.md)
 4. [Add New Locations](Add-New-Locations.md)
 5. [Hide Options After Denying Location Permission](Hide-Options-After-Denying-Location-Permission.md)
+
+### **New Features**
+
+1. [Automatically Lock and Unlock Apps](Automatically-Lock-And-Unlock-Apps.md)
