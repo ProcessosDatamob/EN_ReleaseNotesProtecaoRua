@@ -40,6 +40,7 @@
     * [Accessibility Of The Synchronization Screen For Visually Impaired Users](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accessibility-Of-The-Synchronization-Screen-For-Visually-Impaired-Users.md)
     * [Accessibility On The Permissions Screen](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accessibility-On-The-Permissions-Screen.md)
     * [Accessibility In Street Protection Location Activation](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accessibility-In-Street-Protection-Location-Activation.md)
+    * [Accessibility On The Synchronization Error Screen](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accessibility-On-The-Synchronization-Error-Screen.md)
   * [Release Notes \<NomeProduto> V 1.3.0](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/README.md)
     * [Update Available Notification](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Update-Available-Notification.md)
     * [Emergency Password Usage Notification](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Emergency-Password-Usage-Notification.md)
