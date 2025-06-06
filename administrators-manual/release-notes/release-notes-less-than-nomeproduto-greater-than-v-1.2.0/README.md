@@ -13,3 +13,4 @@
 ### **New Features**
 
 1. [License Status Management in the App](License-Status-Management-In-The-App.md)
+2. [Manage Trusted Contacts in the App](Manage-Trusted-Contacts-In-The-App.md)
