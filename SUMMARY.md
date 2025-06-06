@@ -73,3 +73,4 @@
     * [Lock Screen For Restricted Apps](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Lock-Screen-For-Restricted-Apps.md)
     * [Emergency Security Configuration In The App](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Emergency-Security-Configuration-In-The-App.md)
     * [Safe Locations Management And App Lock In Street Mode](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Safe-Locations-Management-And-App-Lock-In-Street-Mode.md)
+    * [Unlock Screen With Password Validation](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Unlock-Screen-With-Password-Validation.md)
