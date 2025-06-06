@@ -13,3 +13,4 @@
 6. [Vivo OAuth Authentication in the Proteção Rua App](Vivo-Oauth-Authentication-In-The-Proteção-Rua-App.md)
 7. [Activation with OAuth Token in the Street Protection App](Activation-With-Oauth-Token-In-The-Street-Protection-App.md)
 8. [Authentication via OAuth in the Proteção Rua App](Authentication-Via-Oauth-In-The-Proteção-Rua-App.md)
+9. [Redirect URI Configuration for OAuth](Redirect-Uri-Configuration-For-Oauth.md)
