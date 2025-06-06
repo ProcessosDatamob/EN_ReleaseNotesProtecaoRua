@@ -42,3 +42,4 @@
 35. [Accessibility in Row Selection](Accessibility-In-Row-Selection.md)
 36. [Accessibility on the Unconfigured App Home Screen](Accessibility-On-The-Unconfigured-App-Home-Screen.md)
 37. [Main Screen Accessibility in the App](Main-Screen-Accessibility-In-The-App.md)
+38. [Accessibility of the Street Protection App Home Screen](Accessibility-Of-The-Street-Protection-App-Home-Screen.md)
