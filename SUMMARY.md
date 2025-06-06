@@ -1,4 +1,6 @@
 * [RELEASE NOTES](administrators-manual/release-notes/README.md)
+  * [Release Notes \<NomeProduto> V 1.2.0](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/README.md)
+    * [Quick Tab Navigation On Home](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Quick-Tab-Navigation-On-Home.md)
   * [Release Notes \<NomeProduto> V 1.1.0](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/README.md)
     * [Inactive Master Switch Button](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Inactive-Master-Switch-Button.md)
     * [App Lock Outside Secure Location](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/App-Lock-Outside-Secure-Location.md)
