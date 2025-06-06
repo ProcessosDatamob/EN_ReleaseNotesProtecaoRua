@@ -12,6 +12,7 @@
     * [Update Trusted Contact In The Street Protection App](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Update-Trusted-Contact-In-The-Street-Protection-App.md)
     * [Password Management Via Profile](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Password-Management-Via-Profile.md)
     * [Pending Permissions Notification In The App](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Pending-Permissions-Notification-In-The-App.md)
+    * [Initial Access To The Home Screen With Granted Permissions](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Initial-Access-To-The-Home-Screen-With-Granted-Permissions.md)
   * [Release Notes \<NomeProduto> V 1.1.0](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/README.md)
     * [Inactive Master Switch Button](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Inactive-Master-Switch-Button.md)
     * [App Lock Outside Secure Location](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/App-Lock-Outside-Secure-Location.md)
