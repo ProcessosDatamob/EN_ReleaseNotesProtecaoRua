@@ -16,3 +16,4 @@
 2. [Manage Trusted Contacts in the App](Manage-Trusted-Contacts-In-The-App.md)
 3. [Secure Configuration Management in the "Street Protection" App](Secure-Configuration-Management-In-The-"Street-Protection"-App.md)
 4. [Change Main Password in the Street Protection App](Change-Main-Password-In-The-Street-Protection-App.md)
+5. [Change Emergency Password in the Street Protection App](Change-Emergency-Password-In-The-Street-Protection-App.md)
