@@ -90,3 +90,4 @@
     * [Notification Permission For Street Mode](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Notification-Permission-For-Street-Mode.md)
     * [Usage Time Permission For Street Mode](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Usage-Time-Permission-For-Street-Mode.md)
     * [Location Permission Management In The Street Mode App](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Location-Permission-Management-In-The-Street-Mode-App.md)
+    * [Street Mode Permissions Configuration](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Street-Mode-Permissions-Configuration.md)
