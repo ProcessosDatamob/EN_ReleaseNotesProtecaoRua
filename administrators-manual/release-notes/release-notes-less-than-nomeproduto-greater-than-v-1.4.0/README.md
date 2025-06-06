@@ -18,3 +18,4 @@
 11. [Easy Access to the Manage Passwords Screen](Easy-Access-To-The-Manage-Passwords-Screen.md)
 12. [Enhanced Accessibility on the Profile Screen](Enhanced-Accessibility-On-The-Profile-Screen.md)
 13. [Feedback Screen Accessibility](Feedback-Screen-Accessibility.md)
+14. [Accessibility on the Trusted Contact Screen](Accessibility-On-The-Trusted-Contact-Screen.md)
