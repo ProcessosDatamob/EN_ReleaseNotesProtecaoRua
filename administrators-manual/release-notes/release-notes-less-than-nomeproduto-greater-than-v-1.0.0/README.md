@@ -17,3 +17,4 @@
 10. [Splash Screen in the App](Splash-Screen-In-The-App.md)
 11. [Customization of Apps in Street Mode](Customization-Of-Apps-In-Street-Mode.md)
 12. [Initial Access Screen in Street Mode](Initial-Access-Screen-In-Street-Mode.md)
+13. [Access and Management of Safe Locations in the App](Access-And-Management-Of-Safe-Locations-In-The-App.md)
