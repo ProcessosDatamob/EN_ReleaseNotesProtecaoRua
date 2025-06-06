@@ -30,3 +30,4 @@
 15. [Location Permission in the Street Protection App](Location-Permission-In-The-Street-Protection-App.md)
 16. [Granting Usage Time Permission in the Street Protection App](Granting-Usage-Time-Permission-In-The-Street-Protection-App.md)
 17. [Automatic Access Token Renewal](Automatic-Access-Token-Renewal.md)
+18. [Creation and Editing of Safe Locations on the Map](Creation-And-Editing-Of-Safe-Locations-On-The-Map.md)
