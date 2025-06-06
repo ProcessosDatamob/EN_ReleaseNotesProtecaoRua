@@ -22,3 +22,4 @@
 7. [Safe Locations Visualization in the App](Safe-Locations-Visualization-In-The-App.md)
 8. [Complete Configuration Confirmation in the Street Protection App](Complete-Configuration-Confirmation-In-The-Street-Protection-App.md)
 9. [Display of Locations on the Homepage Without Registered Address](Display-Of-Locations-On-The-Homepage-Without-Registered-Address.md)
+10. [Application Selection in the Street Protection App](Application-Selection-In-The-Street-Protection-App.md)
