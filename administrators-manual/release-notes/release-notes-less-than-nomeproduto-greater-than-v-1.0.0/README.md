@@ -28,3 +28,4 @@
 21. [Select Name for Safe Location in Street Mode App](Select-Name-For-Safe-Location-In-Street-Mode-App.md)
 22. [Define Safe Location Coverage Area in Street Mode](Define-Safe-Location-Coverage-Area-In-Street-Mode.md)
 23. [Add Safe Location in Street Mode App](Add-Safe-Location-In-Street-Mode-App.md)
+24. [Removal of the Street Mode Onboarding Welcome Screen](Removal-Of-The-Street-Mode-Onboarding-Welcome-Screen.md)
