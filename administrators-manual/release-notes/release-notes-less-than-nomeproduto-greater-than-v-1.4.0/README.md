@@ -15,3 +15,4 @@
 8. [Password Change Feedback Screen](Password-Change-Feedback-Screen.md)
 9. [Emergency Password Accessibility](Emergency-Password-Accessibility.md)
 10. [Accessibility on the Manage Passwords Screen](Accessibility-On-The-Manage-Passwords-Screen.md)
+11. [Easy Access to the Manage Passwords Screen](Easy-Access-To-The-Manage-Passwords-Screen.md)
