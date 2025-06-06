@@ -46,6 +46,7 @@
     * [Accessibility On The "Manage Safe Locations" Screen](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accessibility-On-The-"Manage-Safe-Locations"-Screen.md)
     * [Accessibility On The Address Search Screen Of The Proteção Rua App](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accessibility-On-The-Address-Search-Screen-Of-The-Proteção-Rua-App.md)
     * [Accessibility In The Safe Location Deletion Modal Of The Street Protection App](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accessibility-In-The-Safe-Location-Deletion-Modal-Of-The-Street-Protection-App.md)
+    * [Accessibility In The Safe Location Options Modal Of The Street Protection App](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accessibility-In-The-Safe-Location-Options-Modal-Of-The-Street-Protection-App.md)
   * [Release Notes \<NomeProduto> V 1.3.0](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/README.md)
     * [Update Available Notification](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Update-Available-Notification.md)
     * [Emergency Password Usage Notification](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Emergency-Password-Usage-Notification.md)
