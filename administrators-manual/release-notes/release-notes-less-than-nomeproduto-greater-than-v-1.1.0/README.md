@@ -29,3 +29,4 @@
 14. [Notification Permission in the Proteção Rua App](Notification-Permission-In-The-Proteção-Rua-App.md)
 15. [Location Permission in the Street Protection App](Location-Permission-In-The-Street-Protection-App.md)
 16. [Granting Usage Time Permission in the Street Protection App](Granting-Usage-Time-Permission-In-The-Street-Protection-App.md)
+17. [Automatic Access Token Renewal](Automatic-Access-Token-Renewal.md)
