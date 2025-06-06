@@ -19,3 +19,4 @@
 4. [Password Creation and Management in the Profile](Password-Creation-And-Management-In-The-Profile.md)
 5. [Trusted Contact Registration](Trusted-Contact-Registration.md)
 6. [Emergency Password Registration in the Proteção Rua App](Emergency-Password-Registration-In-The-Proteção-Rua-App.md)
+7. [Safe Locations Visualization in the App](Safe-Locations-Visualization-In-The-App.md)
