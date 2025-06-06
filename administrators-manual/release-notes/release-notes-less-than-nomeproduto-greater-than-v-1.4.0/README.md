@@ -10,3 +10,4 @@
 3. [Accessible Notifications on the Content Page](Accessible-Notifications-On-The-Content-Page.md)
 4. [Easy Access to the FAQ on the Portal](Easy-Access-To-The-Faq-On-The-Portal.md)
 5. [Accessibility for Pending Permissions](Accessibility-For-Pending-Permissions.md)
+6. [Accessibility in Trusted Contact Editing](Accessibility-In-Trusted-Contact-Editing.md)
