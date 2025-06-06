@@ -33,3 +33,4 @@
 26. [Home Screen of Safe Location Street Mode](Home-Screen-Of-Safe-Location-Street-Mode.md)
 27. [Street Mode Home Screen in the App](Street-Mode-Home-Screen-In-The-App.md)
 28. [Notification Permission for Street Mode](Notification-Permission-For-Street-Mode.md)
+29. [Usage Time Permission for Street Mode](Usage-Time-Permission-For-Street-Mode.md)
