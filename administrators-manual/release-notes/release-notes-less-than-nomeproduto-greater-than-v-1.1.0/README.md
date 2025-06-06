@@ -6,3 +6,4 @@
 ### **Bug Fix**
 
 1. [Inactive Master Switch Button](Inactive-Master-Switch-Button.md)
+2. [App Lock Outside Secure Location](App-Lock-Outside-Secure-Location.md)
