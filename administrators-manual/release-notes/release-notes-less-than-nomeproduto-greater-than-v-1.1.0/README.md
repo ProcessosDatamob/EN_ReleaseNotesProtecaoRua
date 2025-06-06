@@ -24,3 +24,4 @@
 9. [Display of Locations on the Homepage Without Registered Address](Display-Of-Locations-On-The-Homepage-Without-Registered-Address.md)
 10. [Application Selection in the Street Protection App](Application-Selection-In-The-Street-Protection-App.md)
 11. [Text Adjustment for Safe Location Registration](Text-Adjustment-For-Safe-Location-Registration.md)
+12. [Safe Location Registration in the App](Safe-Location-Registration-In-The-App.md)
