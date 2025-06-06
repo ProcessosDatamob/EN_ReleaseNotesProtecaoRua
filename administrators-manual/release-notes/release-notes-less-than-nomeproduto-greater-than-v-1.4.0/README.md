@@ -19,3 +19,4 @@
 12. [Enhanced Accessibility on the Profile Screen](Enhanced-Accessibility-On-The-Profile-Screen.md)
 13. [Feedback Screen Accessibility](Feedback-Screen-Accessibility.md)
 14. [Accessibility on the Trusted Contact Screen](Accessibility-On-The-Trusted-Contact-Screen.md)
+15. [Accessibility in Trusted Contacts Editing](Accessibility-In-Trusted-Contacts-Editing.md)
