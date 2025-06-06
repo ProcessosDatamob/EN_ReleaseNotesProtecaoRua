@@ -7,3 +7,4 @@
 
 1. [Visibility and Navigation on iOS Home Screen](Visibility-And-Navigation-On-Ios-Home-Screen.md)
 2. [Safe Location Selection on the Map](Safe-Location-Selection-On-The-Map.md)
+3. [Safe Locations Management in the Street Protection App](Safe-Locations-Management-In-The-Street-Protection-App.md)
