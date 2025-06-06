@@ -20,3 +20,4 @@
 5. [Trusted Contact Registration](Trusted-Contact-Registration.md)
 6. [Emergency Password Registration in the Proteção Rua App](Emergency-Password-Registration-In-The-Proteção-Rua-App.md)
 7. [Safe Locations Visualization in the App](Safe-Locations-Visualization-In-The-App.md)
+8. [Complete Configuration Confirmation in the Street Protection App](Complete-Configuration-Confirmation-In-The-Street-Protection-App.md)
