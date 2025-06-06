@@ -65,6 +65,7 @@
     * [Complete Configuration Confirmation In The Street Protection App](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Complete-Configuration-Confirmation-In-The-Street-Protection-App.md)
     * [Display Of Locations On The Homepage Without Registered Address](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Display-Of-Locations-On-The-Homepage-Without-Registered-Address.md)
     * [Application Selection In The Street Protection App](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Application-Selection-In-The-Street-Protection-App.md)
+    * [Text Adjustment For Safe Location Registration](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Text-Adjustment-For-Safe-Location-Registration.md)
   * [Release Notes \<NomeProduto> V 1.0.0](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/README.md)
     * [Visibility And Navigation On Ios Home Screen](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Visibility-And-Navigation-On-Ios-Home-Screen.md)
     * [Safe Location Selection On The Map](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Safe-Location-Selection-On-The-Map.md)
