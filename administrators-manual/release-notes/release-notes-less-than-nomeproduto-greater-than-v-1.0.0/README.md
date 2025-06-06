@@ -16,3 +16,4 @@
 9. [Redirect URI Configuration for OAuth](Redirect-Uri-Configuration-For-Oauth.md)
 10. [Splash Screen in the App](Splash-Screen-In-The-App.md)
 11. [Customization of Apps in Street Mode](Customization-Of-Apps-In-Street-Mode.md)
+12. [Initial Access Screen in Street Mode](Initial-Access-Screen-In-Street-Mode.md)
