@@ -32,6 +32,7 @@
     * [Profile Screen Accessibility For Visually Impaired Users](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Profile-Screen-Accessibility-For-Visually-Impaired-Users.md)
     * [Accessibility On The Street Protection Feedback Screen](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accessibility-On-The-Street-Protection-Feedback-Screen.md)
     * [Accessibility On The Add Trusted Contact Screen](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accessibility-On-The-Add-Trusted-Contact-Screen.md)
+    * [Accessibility For Managing Trusted Contacts](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accessibility-For-Managing-Trusted-Contacts.md)
   * [Release Notes \<NomeProduto> V 1.3.0](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/README.md)
     * [Update Available Notification](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Update-Available-Notification.md)
     * [Emergency Password Usage Notification](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Emergency-Password-Usage-Notification.md)
