@@ -30,3 +30,4 @@
 23. [Accessibility on the Street Protection Permissions Screen](Accessibility-On-The-Street-Protection-Permissions-Screen.md)
 24. [Accessibility in Location Activation on Street Protection](Accessibility-In-Location-Activation-On-Street-Protection.md)
 25. [Accessibility on the Synchronization Error Screen](Accessibility-On-The-Synchronization-Error-Screen.md)
+26. [Accessibility on the Device Swap Screen](Accessibility-On-The-Device-Swap-Screen.md)
