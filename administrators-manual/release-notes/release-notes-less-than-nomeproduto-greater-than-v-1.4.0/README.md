@@ -28,3 +28,4 @@
 21. [Accessibility in Master Password Creation](Accessibility-In-Master-Password-Creation.md)
 22. [Accessibility on the Information Synchronization Screen](Accessibility-On-The-Information-Synchronization-Screen.md)
 23. [Accessibility on the Street Protection Permissions Screen](Accessibility-On-The-Street-Protection-Permissions-Screen.md)
+24. [Accessibility in Location Activation on Street Protection](Accessibility-In-Location-Activation-On-Street-Protection.md)
