@@ -36,3 +36,4 @@
 29. [Accessibility in the Address Search of the Street Protection App](Accessibility-In-The-Address-Search-Of-The-Street-Protection-App.md)
 30. [Accessibility in the Safe Location Deletion Modal](Accessibility-In-The-Safe-Location-Deletion-Modal.md)
 31. [Accessibility in the Safe Location Options Modal](Accessibility-In-The-Safe-Location-Options-Modal.md)
+32. [Accessibility on the "Choose a Name for This Location" Screen](Accessibility-On-The-"Choose-A-Name-For-This-Location"-Screen.md)
