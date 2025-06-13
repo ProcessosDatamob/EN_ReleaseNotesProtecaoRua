@@ -7,3 +7,4 @@
 
 1. [Accessibility on the Notifications Screen](Accessibility-On-The-Notifications-Screen.md)
 2. [Accessibility on the Error Screen](Accessibility-On-The-Error-Screen.md)
+3. [Accessibility for Visually Impaired Users](Accessibility-For-Visually-Impaired-Users.md)
