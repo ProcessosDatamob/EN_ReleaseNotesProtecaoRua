@@ -10,3 +10,4 @@
 3. [Accessibility for Visually Impaired Users](Accessibility-For-Visually-Impaired-Users.md)
 4. [Accessibility on the FAQ Screen](Accessibility-On-The-Faq-Screen.md)
 5. [Accessibility on the Pending Permissions Screen](Accessibility-On-The-Pending-Permissions-Screen.md)
+6. [Accessibility in Trusted Contact Editing](Accessibility-In-Trusted-Contact-Editing.md)
