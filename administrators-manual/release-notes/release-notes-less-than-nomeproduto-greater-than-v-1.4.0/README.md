@@ -42,3 +42,4 @@
 35. [Accessibility Improvements on the Line Selection Screen](Accessibility-Improvements-On-The-Line-Selection-Screen.md)
 36. [Unconfigured App Home Screen Accessibility](Unconfigured-App-Home-Screen-Accessibility.md)
 37. [Main Screen Accessibility - Street Protection App](Main-Screen-Accessibility---Street-Protection-App.md)
+38. [Enhanced Accessibility on the Street Protection Home Screen](Enhanced-Accessibility-On-The-Street-Protection-Home-Screen.md)
