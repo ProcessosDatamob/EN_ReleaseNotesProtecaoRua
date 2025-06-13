@@ -6,3 +6,4 @@
 ### **New Features**
 
 1. [Accessibility on the Notifications Screen](Accessibility-On-The-Notifications-Screen.md)
+2. [Accessibility on the Error Screen](Accessibility-On-The-Error-Screen.md)
