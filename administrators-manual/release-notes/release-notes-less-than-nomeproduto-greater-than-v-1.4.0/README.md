@@ -26,3 +26,4 @@
 19. [Accessibility for Visually Impaired Users on the Emergency Password Screen](Accessibility-For-Visually-Impaired-Users-On-The-Emergency-Password-Screen.md)
 20. [Accessibility on the Main Password Registration Screen](Accessibility-On-The-Main-Password-Registration-Screen.md)
 21. [Accessibility in Master Password Creation](Accessibility-In-Master-Password-Creation.md)
+22. [Accessibility on the Information Synchronization Screen](Accessibility-On-The-Information-Synchronization-Screen.md)
