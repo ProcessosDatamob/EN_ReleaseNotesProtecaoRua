@@ -21,3 +21,4 @@
 14. [Accessibility on the Add Trusted Contact Screen](Accessibility-On-The-Add-Trusted-Contact-Screen.md)
 15. [Accessibility for Managing Trusted Contacts](Accessibility-For-Managing-Trusted-Contacts.md)
 16. [Accessibility on the Trusted Contact Screen](Accessibility-On-The-Trusted-Contact-Screen.md)
+17. [Accessibility on the Emergency Password Screen](Accessibility-On-The-Emergency-Password-Screen.md)
