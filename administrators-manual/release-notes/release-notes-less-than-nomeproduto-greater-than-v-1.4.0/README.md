@@ -14,3 +14,4 @@
 7. [Accessibility for Contact Selection](Accessibility-For-Contact-Selection.md)
 8. [Accessibility of the Password Change Feedback Screen](Accessibility-Of-The-Password-Change-Feedback-Screen.md)
 9. [Accessibility on the Emergency Password Change Screen](Accessibility-On-The-Emergency-Password-Change-Screen.md)
+10. [Accessibility in Main Password Change](Accessibility-In-Main-Password-Change.md)
