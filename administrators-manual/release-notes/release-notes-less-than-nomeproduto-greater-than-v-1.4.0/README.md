@@ -34,3 +34,4 @@
 27. [Accessibility on the "Safe Locations Limit Reached" Screen](Accessibility-On-The-"Safe-Locations-Limit-Reached"-Screen.md)
 28. [Accessibility on the "Manage Safe Locations" Screen](Accessibility-On-The-"Manage-Safe-Locations"-Screen.md)
 29. [Accessibility in the Address Search of the Street Protection App](Accessibility-In-The-Address-Search-Of-The-Street-Protection-App.md)
+30. [Accessibility in the Safe Location Deletion Modal](Accessibility-In-The-Safe-Location-Deletion-Modal.md)
