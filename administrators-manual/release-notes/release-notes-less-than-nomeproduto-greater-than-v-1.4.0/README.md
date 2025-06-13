@@ -20,3 +20,4 @@
 13. [Accessibility on the Street Protection Feedback Screen](Accessibility-On-The-Street-Protection-Feedback-Screen.md)
 14. [Accessibility on the Add Trusted Contact Screen](Accessibility-On-The-Add-Trusted-Contact-Screen.md)
 15. [Accessibility for Managing Trusted Contacts](Accessibility-For-Managing-Trusted-Contacts.md)
+16. [Accessibility on the Trusted Contact Screen](Accessibility-On-The-Trusted-Contact-Screen.md)
