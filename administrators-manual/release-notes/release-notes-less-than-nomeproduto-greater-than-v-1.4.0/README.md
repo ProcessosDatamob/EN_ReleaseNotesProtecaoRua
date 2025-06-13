@@ -9,3 +9,4 @@
 2. [Accessibility on the Error Screen](Accessibility-On-The-Error-Screen.md)
 3. [Accessibility for Visually Impaired Users](Accessibility-For-Visually-Impaired-Users.md)
 4. [Accessibility on the FAQ Screen](Accessibility-On-The-Faq-Screen.md)
+5. [Accessibility on the Pending Permissions Screen](Accessibility-On-The-Pending-Permissions-Screen.md)
