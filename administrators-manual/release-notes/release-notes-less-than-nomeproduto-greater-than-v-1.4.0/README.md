@@ -2,3 +2,7 @@
 
 ## **Versão 1.4.0 - 06/2025**
 
+
+### **New Features**
+
+1. [Accessibility on the Notifications Screen](Accessibility-On-The-Notifications-Screen.md)
