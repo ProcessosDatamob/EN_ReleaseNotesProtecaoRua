@@ -17,6 +17,8 @@
     * [Configurações e Recuperação de Senha](technical-description-of-the-protection-solution-android/ios/configuracoes-e-recuperacao-de-senha.md)
     * [Requisitos](technical-description-of-the-protection-solution-android/ios/requisitos.md)
 * [RELEASE NOTES](administrators-manual/release-notes/README.md)
+  * [Release Notes \<NomeProduto> V 1.4.0](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/README.md)
+    * [Accessibility On The Notifications Screen](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accessibility-On-The-Notifications-Screen.md)
   * [Release Notes \<NomeProduto> V 1.3.0](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/README.md)
     * [Update Available Notification](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Update-Available-Notification.md)
     * [Emergency Password Usage Notification](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Emergency-Password-Usage-Notification.md)
