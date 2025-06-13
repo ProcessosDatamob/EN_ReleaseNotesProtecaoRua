@@ -41,3 +41,4 @@
 34. [Accessibility on the "Add Safe Location" Screen](Accessibility-On-The-"Add-Safe-Location"-Screen.md)
 35. [Accessibility Improvements on the Line Selection Screen](Accessibility-Improvements-On-The-Line-Selection-Screen.md)
 36. [Unconfigured App Home Screen Accessibility](Unconfigured-App-Home-Screen-Accessibility.md)
+37. [Main Screen Accessibility - Street Protection App](Main-Screen-Accessibility---Street-Protection-App.md)
