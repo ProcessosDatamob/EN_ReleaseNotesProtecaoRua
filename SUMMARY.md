@@ -48,6 +48,7 @@
     * [Accessibility In The Address Search Of The Street Protection App](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accessibility-In-The-Address-Search-Of-The-Street-Protection-App.md)
     * [Accessibility In The Safe Location Deletion Modal](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accessibility-In-The-Safe-Location-Deletion-Modal.md)
     * [Accessibility In The Safe Location Options Modal](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accessibility-In-The-Safe-Location-Options-Modal.md)
+    * [Accessibility On The "Choose A Name For This Location" Screen](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accessibility-On-The-"Choose-A-Name-For-This-Location"-Screen.md)
   * [Release Notes \<NomeProduto> V 1.3.0](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/README.md)
     * [Update Available Notification](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Update-Available-Notification.md)
     * [Emergency Password Usage Notification](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Emergency-Password-Usage-Notification.md)
