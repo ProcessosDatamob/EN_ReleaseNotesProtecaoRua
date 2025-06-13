@@ -13,3 +13,4 @@
 6. [Accessibility in Trusted Contact Editing](Accessibility-In-Trusted-Contact-Editing.md)
 7. [Accessibility for Contact Selection](Accessibility-For-Contact-Selection.md)
 8. [Accessibility of the Password Change Feedback Screen](Accessibility-Of-The-Password-Change-Feedback-Screen.md)
+9. [Accessibility on the Emergency Password Change Screen](Accessibility-On-The-Emergency-Password-Change-Screen.md)
