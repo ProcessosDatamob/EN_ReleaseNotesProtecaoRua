@@ -17,3 +17,4 @@
 10. [Accessibility in Main Password Change](Accessibility-In-Main-Password-Change.md)
 11. [Accessibility on the Manage Passwords Screen](Accessibility-On-The-Manage-Passwords-Screen.md)
 12. [Profile Screen Accessibility for Visually Impaired Users](Profile-Screen-Accessibility-For-Visually-Impaired-Users.md)
+13. [Accessibility on the Street Protection Feedback Screen](Accessibility-On-The-Street-Protection-Feedback-Screen.md)
