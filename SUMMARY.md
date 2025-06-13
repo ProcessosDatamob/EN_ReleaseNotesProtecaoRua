@@ -54,6 +54,7 @@
     * [Accessibility Improvements On The Line Selection Screen](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accessibility-Improvements-On-The-Line-Selection-Screen.md)
     * [Unconfigured App Home Screen Accessibility](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Unconfigured-App-Home-Screen-Accessibility.md)
     * [Main Screen Accessibility   Street Protection App](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Main-Screen-Accessibility---Street-Protection-App.md)
+    * [Enhanced Accessibility On The Street Protection Home Screen](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Enhanced-Accessibility-On-The-Street-Protection-Home-Screen.md)
   * [Release Notes \<NomeProduto> V 1.3.0](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/README.md)
     * [Update Available Notification](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Update-Available-Notification.md)
     * [Emergency Password Usage Notification](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Emergency-Password-Usage-Notification.md)
