@@ -32,3 +32,4 @@
 25. [Accessibility on the Synchronization Error Screen](Accessibility-On-The-Synchronization-Error-Screen.md)
 26. [Accessibility on the Device Swap Screen](Accessibility-On-The-Device-Swap-Screen.md)
 27. [Accessibility on the "Safe Locations Limit Reached" Screen](Accessibility-On-The-"Safe-Locations-Limit-Reached"-Screen.md)
+28. [Accessibility on the "Manage Safe Locations" Screen](Accessibility-On-The-"Manage-Safe-Locations"-Screen.md)
