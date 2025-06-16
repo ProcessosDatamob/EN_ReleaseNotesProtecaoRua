@@ -2,4 +2,4 @@
 
 **ID: US-BTC-465**
 
-Description: In the portal, the functionality to change the main password is now more accessible for visually impaired users. Navigation through the screen follows a logical order, ensuring that all elements can be accessed sequentially with a screen reader. The components are clearly described and have appropriate semantics, allowing users to easily understand the password requirements and interact safely and independently.
+Description: The "Change Main Password" screen in the portal has been enhanced to ensure that visually impaired users can use it with ease. It is now compatible with screen readers, meaning that navigation is clearly organized and on-screen elements are accurately described. This ensures that anyone can create and confirm their new password securely and without needing assistance from others, promoting user independence and security.
