@@ -1,5 +1,5 @@
 # Accessibility on the Emergency Password Screen
 
-**ID: US-BTC-458**
+**ID:** **US-BTC-456**
 
-Description: In the Proteção Rua app, the screen where you create and confirm your emergency password has been improved to assist visually impaired users. Now, screen reader users can hear the elements in the correct order and clearly understand what each one does, as the descriptions are clear and specify the type of component. If there is any error, you will be immediately informed, making the experience easier and smoother for those using assistive technologies.
+**Description:** In the Proteção Rua app, visually impaired users can easily and efficiently access the emergency password introduction screen. The reading of elements is done in a logical sequence, and the descriptions provided by the screen reader are clear and detailed. This ensures that all screen components are easily recognized and understood, allowing users to make informed choices when using assistive technologies.
