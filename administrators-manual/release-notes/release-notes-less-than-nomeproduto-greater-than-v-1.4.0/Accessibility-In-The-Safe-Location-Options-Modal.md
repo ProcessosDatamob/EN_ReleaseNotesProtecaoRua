@@ -2,4 +2,4 @@
 
 **ID: US-BTC-360**
 
-Description: In the Street Protection app, users who rely on assistive technologies can now easily navigate through the safe location options. Navigation is facilitated by a logical sequence of elements, and the buttons are clearly identified and announced by screen readers, allowing users to independently edit, rename, or delete safe locations. Each button is properly identified, providing an intuitive and accessible experience on Android and iOS devices.
+Description: In the Street Protection app, the options window for safe locations has been improved to accommodate users with special needs. It is now fully accessible for those using screen readers, allowing anyone to easily navigate and perform actions such as editing, renaming, or deleting safe locations independently. Each component is clearly announced, with identifiers like "Close window," "Edit address," "Rename location," and "Delete," all recognized as buttons, which facilitates interaction on Android and iOS devices.
