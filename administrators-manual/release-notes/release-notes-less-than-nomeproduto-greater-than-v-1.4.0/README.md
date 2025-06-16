@@ -73,3 +73,4 @@
 66. [Accessibility on the "Manage Safe Locations" Screen](Accessibility-On-The-"Manage-Safe-Locations"-Screen.md)
 67. [Accessibility in the Address Search of the Street Protection App](Accessibility-In-The-Address-Search-Of-The-Street-Protection-App.md)
 68. [Accessibility in Safe Location Deletion Modal](Accessibility-In-Safe-Location-Deletion-Modal.md)
+69. [Accessibility in the Safe Location Options Modal](Accessibility-In-The-Safe-Location-Options-Modal.md)
