@@ -78,3 +78,4 @@
 71. [Accessibility on the "Define Safe Area" Screen](Accessibility-On-The-"Define-Safe-Area"-Screen.md)
 72. [Accessibility on the "Add Safe Location" Screen](Accessibility-On-The-"Add-Safe-Location"-Screen.md)
 73. [Accessibility on the Line Selection Screen](Accessibility-On-The-Line-Selection-Screen.md)
+74. [Unconfigured Home Screen Accessibility](Unconfigured-Home-Screen-Accessibility.md)
