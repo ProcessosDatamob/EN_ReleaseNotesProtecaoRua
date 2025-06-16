@@ -79,3 +79,4 @@
 72. [Accessibility on the "Add Safe Location" Screen](Accessibility-On-The-"Add-Safe-Location"-Screen.md)
 73. [Accessibility on the Line Selection Screen](Accessibility-On-The-Line-Selection-Screen.md)
 74. [Unconfigured Home Screen Accessibility](Unconfigured-Home-Screen-Accessibility.md)
+75. [Full Accessibility of the Main Screen in the App](Full-Accessibility-Of-The-Main-Screen-In-The-App.md)
