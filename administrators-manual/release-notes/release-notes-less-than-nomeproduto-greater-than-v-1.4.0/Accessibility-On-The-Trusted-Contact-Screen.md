@@ -1,5 +1,5 @@
 # Accessibility on the Trusted Contact Screen
 
-**ID: US-BTC-459**
+**ID: US-BTC-461**
 
-The "Add a Trusted Contact" screen has been developed to be accessible to everyone, including people with special needs. The buttons and links are organized in a way that makes it easy to navigate and understand what each one does. Users of screen readers or other assistive tools will find clear and precise descriptions of the elements on the screen, facilitating interaction and comprehension. Each part of the screen has a clear name that explains its function, helping users know exactly what to expect when interacting with it.
+The "Add a Trusted Contact" screen has been improved to make it easier for all users to use. Now, when you enter a number, it is validated in a simple and clear manner, which aids in correct completion. The screen elements are organized in a visually logical order, making navigation more natural. Additionally, if you use screen readers, they will provide accurate and relevant descriptions, helping you understand each part of the screen. All components are clearly identified for technologies that assist people with special needs, ensuring that anyone can add trusted contacts easily and accessibly.
