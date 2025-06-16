@@ -43,3 +43,4 @@
 36. [Unconfigured App Home Screen Accessibility](Unconfigured-App-Home-Screen-Accessibility.md)
 37. [Main Screen Accessibility - Street Protection App](Main-Screen-Accessibility---Street-Protection-App.md)
 38. [Enhanced Accessibility on the Street Protection Home Screen](Enhanced-Accessibility-On-The-Street-Protection-Home-Screen.md)
+39. [Accessibility on the Notifications Screen](Accessibility-On-The-Notifications-Screen.md)
