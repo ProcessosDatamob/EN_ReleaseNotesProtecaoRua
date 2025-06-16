@@ -80,3 +80,4 @@
 73. [Accessibility on the Line Selection Screen](Accessibility-On-The-Line-Selection-Screen.md)
 74. [Unconfigured Home Screen Accessibility](Unconfigured-Home-Screen-Accessibility.md)
 75. [Full Accessibility of the Main Screen in the App](Full-Accessibility-Of-The-Main-Screen-In-The-App.md)
+76. [Accessibility of the Street Protection App Home Screen](Accessibility-Of-The-Street-Protection-App-Home-Screen.md)
