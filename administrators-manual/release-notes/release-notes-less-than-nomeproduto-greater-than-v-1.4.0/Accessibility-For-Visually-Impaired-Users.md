@@ -2,4 +2,4 @@
 
 **ID: US-BTC-472**
 
-The page that explains how to prevent the uninstallation of Proteção Rua has now been adjusted to be easily accessible for visually impaired individuals. The order of elements on the screen has been organized logically, allowing screen readers to interpret and convey the information clearly and accurately. The elements on the screen have appropriate descriptions, helping users understand and follow the instructions without needing assistance.
+Description: On the portal, the "How to Prevent Street Protection from Being Uninstalled" screen has been adapted to be accessible to visually impaired users. All elements of the page now follow a logical navigation sequence. The component descriptions are clearer and use easy-to-understand language. Additionally, the different types of components are accurately identified, allowing users who rely on screen readers to understand and interact with the page independently and effectively.
