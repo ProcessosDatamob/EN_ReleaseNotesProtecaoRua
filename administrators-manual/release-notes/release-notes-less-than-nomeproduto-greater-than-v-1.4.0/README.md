@@ -47,3 +47,4 @@
 40. [Error Screen Accessibility for Visually Impaired Users](Error-Screen-Accessibility-For-Visually-Impaired-Users.md)
 41. [Accessibility for Visually Impaired Users](Accessibility-For-Visually-Impaired-Users.md)
 42. [Accessibility on the FAQ Screen](Accessibility-On-The-Faq-Screen.md)
+43. [Accessibility on the Pending Permissions Screen](Accessibility-On-The-Pending-Permissions-Screen.md)
