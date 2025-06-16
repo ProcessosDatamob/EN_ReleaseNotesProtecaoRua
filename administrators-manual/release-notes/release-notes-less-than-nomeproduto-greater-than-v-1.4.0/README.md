@@ -77,3 +77,4 @@
 70. [Accessibility on the "Choose a Name for This Location" Screen of the Street Protection App](Accessibility-On-The-"Choose-A-Name-For-This-Location"-Screen-Of-The-Street-Protection-App.md)
 71. [Accessibility on the "Define Safe Area" Screen](Accessibility-On-The-"Define-Safe-Area"-Screen.md)
 72. [Accessibility on the "Add Safe Location" Screen](Accessibility-On-The-"Add-Safe-Location"-Screen.md)
+73. [Accessibility on the Line Selection Screen](Accessibility-On-The-Line-Selection-Screen.md)
