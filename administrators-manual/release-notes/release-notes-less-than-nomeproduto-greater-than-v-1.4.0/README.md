@@ -70,3 +70,4 @@
 63. [Accessibility on the Street Protection Synchronization Error Screen](Accessibility-On-The-Street-Protection-Synchronization-Error-Screen.md)
 64. [Accessibility on the Device Swap Screen](Accessibility-On-The-Device-Swap-Screen.md)
 65. [Accessibility on the "Safe Locations Limit Reached" Screen](Accessibility-On-The-"Safe-Locations-Limit-Reached"-Screen.md)
+66. [Accessibility on the "Manage Safe Locations" Screen](Accessibility-On-The-"Manage-Safe-Locations"-Screen.md)
