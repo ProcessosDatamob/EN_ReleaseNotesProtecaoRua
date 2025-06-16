@@ -51,3 +51,4 @@
 44. [Accessibility in Trusted Contact Editing](Accessibility-In-Trusted-Contact-Editing.md)
 45. [Accessibility in Contact Selection for Editing](Accessibility-In-Contact-Selection-For-Editing.md)
 46. [Accessibility on the Password Feedback Screen](Accessibility-On-The-Password-Feedback-Screen.md)
+47. [Accessibility in Emergency Password Change](Accessibility-In-Emergency-Password-Change.md)
