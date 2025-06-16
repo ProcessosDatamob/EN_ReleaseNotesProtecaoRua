@@ -1,0 +1,5 @@
+# Accessibility on the "Choose a Name for This Location" Screen of the Street Protection App
+
+**ID: US-BTC-358**
+
+The "Choose a Name for This Location" screen in the Street Protection app is now fully accessible, allowing all users, including those who rely on screen readers, to navigate with ease. Screen elements, such as buttons and location options, have clear descriptions and are announced logically. For example, the "Close Window" and "Save Name" buttons are clearly identified, ensuring that users understand their functions. When the "Other" option is selected, the text field for entering the name is automatically activated, and the keyboard is displayed, accompanied by the label "Enter the address name," which is also announced. This provides a smooth and autonomous experience in naming safe locations, making the process more independent and efficient for all users.
