@@ -2,4 +2,4 @@
 
 **ID: US-BTC-474**
 
-In the portal, the Notifications screen has been adjusted to facilitate use by visually impaired individuals, allowing them to easily navigate using screen readers. The elements on the screen follow a logical order when you use the tab key, making the reading clear and understandable. Each component is described in a way that shows its purpose and type, ensuring that you can interact independently and effectively with important notifications.
+Description: The Notifications screen is now adjusted to be more user-friendly for visually impaired users who utilize screen readers. Navigation through the screen has been organized to follow an intuitive order, and each component is clearly described, aiding in the precise identification of each item. This allows users to understand and interact with their notifications independently and without difficulties.
