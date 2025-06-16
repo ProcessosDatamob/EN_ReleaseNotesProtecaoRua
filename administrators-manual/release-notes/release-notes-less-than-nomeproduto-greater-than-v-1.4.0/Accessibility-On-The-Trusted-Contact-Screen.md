@@ -1,5 +1,5 @@
 # Accessibility on the Trusted Contact Screen
 
-**ID: US-BTC-460**
+**ID: US-BTC-459**
 
-Description: In the portal, users who require accessibility features can easily add or edit a second trusted contact on the specific screen, which has been designed to be accessible. Navigation through the elements is logically organized, with a clear sequence to move between items, as well as detailed descriptions and correct identification of component types. This facilitates effective and clear management of trusted contacts, especially for those using assistive technology, such as screen readers.
+Description: This feature in the app ensures that the "Add a Trusted Contact" screen is user-friendly for individuals with special needs. Navigation through the screen elements is organized in a logical manner so that everyone can easily understand and use it. Screen readers and other assistive technologies provide clear descriptions of each part of the screen, helping users understand the purpose of each item. All elements are clearly identified, ensuring that users comprehend their functions without difficulty.
