@@ -66,3 +66,4 @@
 59. [Accessibility in Creating Main Password](Accessibility-In-Creating-Main-Password.md)
 60. [Accessibility on the Information Synchronization Screen](Accessibility-On-The-Information-Synchronization-Screen.md)
 61. [Accessibility on the Street Protection Permission Screen](Accessibility-On-The-Street-Protection-Permission-Screen.md)
+62. [Accessibility in Street Protection Location Activation](Accessibility-In-Street-Protection-Location-Activation.md)
