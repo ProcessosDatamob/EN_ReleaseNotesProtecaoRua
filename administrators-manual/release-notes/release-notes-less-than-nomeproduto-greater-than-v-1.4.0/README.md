@@ -59,3 +59,4 @@
 52. [Accessibility on the Trusted Contact Screen](Accessibility-On-The-Trusted-Contact-Screen.md)
 53. [Accessibility on the Trusted Contact Screen](Accessibility-On-The-Trusted-Contact-Screen.md)
 54. [Accessibility on the Trusted Contact Screen](Accessibility-On-The-Trusted-Contact-Screen.md)
+55. [Accessibility on the Emergency Password Screen](Accessibility-On-The-Emergency-Password-Screen.md)
