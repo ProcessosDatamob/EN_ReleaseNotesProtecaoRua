@@ -44,3 +44,4 @@
 37. [Main Screen Accessibility - Street Protection App](Main-Screen-Accessibility---Street-Protection-App.md)
 38. [Enhanced Accessibility on the Street Protection Home Screen](Enhanced-Accessibility-On-The-Street-Protection-Home-Screen.md)
 39. [Accessibility on the Notifications Screen](Accessibility-On-The-Notifications-Screen.md)
+40. [Error Screen Accessibility for Visually Impaired Users](Error-Screen-Accessibility-For-Visually-Impaired-Users.md)
