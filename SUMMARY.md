@@ -61,6 +61,7 @@
     * [Accessibility In Emergency Password Change](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accessibility-In-Emergency-Password-Change.md)
     * [Accessibility On The Profile Screen](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accessibility-On-The-Profile-Screen.md)
     * [Accessibility For Emergency Password Details](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accessibility-For-Emergency-Password-Details.md)
+    * [Accessibility In Creating Main Password](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accessibility-In-Creating-Main-Password.md)
   * [Release Notes \<NomeProduto> V 1.3.0](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/README.md)
     * [Update Available Notification](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Update-Available-Notification.md)
     * [Emergency Password Usage Notification](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Emergency-Password-Usage-Notification.md)
