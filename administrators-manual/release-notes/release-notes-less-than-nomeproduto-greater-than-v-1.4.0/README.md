@@ -63,3 +63,4 @@
 56. [Accessibility for Emergency Password Details](Accessibility-For-Emergency-Password-Details.md)
 57. [Accessibility on the Emergency Password Screen](Accessibility-On-The-Emergency-Password-Screen.md)
 58. [Accessibility on the Main Password Registration Screen](Accessibility-On-The-Main-Password-Registration-Screen.md)
+59. [Accessibility in Creating Main Password](Accessibility-In-Creating-Main-Password.md)
